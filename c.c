@@ -17,5 +17,5 @@ int main(){
             printf("khong co thang %d", thang);
         }
     }
-    // hello
+    // hello world
 }
