@@ -14,3 +14,4 @@ int main(){
 	}
 	printf("ket qua = %.2f", T);
 }
+// hello
