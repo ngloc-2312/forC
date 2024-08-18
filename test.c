@@ -20,4 +20,4 @@ int main(){
 		}
 	}
 }
-//hello world
+//fck
