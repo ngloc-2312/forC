@@ -14,7 +14,7 @@ int main(){
         if(nam % 400 == 0 || nam % 4 == 0 && nam % 100 != 0){
              printf("%d co 29 ngay", thang);
         }else {
-            printf("khong co thang %d", thang);
+            printf("thang %d co 28 ngay", thang);
         }
     }
 }
